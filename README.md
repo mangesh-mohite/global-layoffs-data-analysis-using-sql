@@ -5,7 +5,7 @@ This project focuses on analyzing global layoffs data (2020–2023) using SQL. I
 Real-world dataset of 2,361 companies
 Covers layoffs from 2020 to 2023
 Total layoffs analyzed: 383,159
-⚙️ Key Features
+# ⚙️ Key Features
 🧹 Data Cleaning & Preparation
 Removed duplicate records using CTEs and window functions
 Standardized inconsistent data:
