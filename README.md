@@ -1,4 +1,5 @@
 # 🌍 Global Layoffs Data Analysis using SQL
+
 # 📌 Project Overview
 This project focuses on analyzing global layoffs data (2020–2023) using SQL. It involves building a complete data pipeline—from raw data cleaning to extracting meaningful insights—using advanced SQL techniques.
 # 📊 Dataset
@@ -45,5 +46,5 @@ Execute analysis queries to generate insights
 # 📌 Conclusion
 This project demonstrates how SQL can be used not just for querying data, but for building a full data analysis pipeline and extracting real-world business insights.
 
-#👤 Author
+# 👤 Author
 Mangesh Mohite
